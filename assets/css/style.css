@@ -40,9 +40,9 @@ section#main-section > b {
 }
 
 .my-picture {
-	height: 150px;
+	height: 200px;
 	padding: 3px;
-	border-radius: 50%;
+	border-radius: 70%;
 	border-style: solid;
 	border-color: white;
 	border-width: 5px;
