@@ -11,7 +11,8 @@ body {
 
 
 #main-section {
-	background-color: #ff6600;
+	background-color: #DAA520;
+	background-image: "image3.jpg"
 }
 
 section#main-section > a {
@@ -58,13 +59,12 @@ h1
 
 #dev-description {
 padding-top: 15px;
-padding-bottom: 15px;
+padding-bottom: 0px;
 
 }
 
 #portfolio-section {
-	padding-top: 10%;
-	background-color: orange;
+	background-color: #8B4513;
 }
 
 #skills-section {
